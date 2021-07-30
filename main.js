@@ -1,4 +1,4 @@
-// let submit= document.querySelector("[type='submit']");
+
 let Name= document.getElementById("name");
 let email= document.getElementById('email');
 let msg= document.getElementById('message');
